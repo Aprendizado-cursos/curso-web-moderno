@@ -1,0 +1,16 @@
+{
+  "name": "Curso_Web_Moderno",
+  "version": "1.0.0",
+  "main": "./src/servidor.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
